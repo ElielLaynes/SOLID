@@ -56,7 +56,7 @@ class SegundaClasse(PrimeiraClasse):
 '''
 O exemplo acima, QUEBRA o Princípio de Liskov, visto que o Metodo_1() da SegundaClasse, é alterado na implementação e não segue mais o comportamento original. E se outra classe herdam a SegundaClasse, também vai serguir alterando os métodos e assim se perder do princípio de Liskov.
 
-Esse tipo de alteração no Código depois de herdar uma classe mãe, é relacionado ao Polimorfismo das Classes. Outro Conceito de Orientação a Objetos.
+Esse tipo de alteração no Código, depois de herdar uma classe mãe, é relacionado ao Polimorfismo das Classes. Outro Conceito de Orientação a Objetos.
 '''
 
 
