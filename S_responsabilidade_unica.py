@@ -1,4 +1,6 @@
 '''
+Nesse Exemplo, vamos falar do primeiro princípo SOLID -> S -> Responsabilidade Única.
+
 Para esse Exemplo, será montado:
 
 1º -> Uma classe que não segue o primeiro princípio do SOLID - Responsabilidade Única.
