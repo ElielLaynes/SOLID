@@ -71,7 +71,11 @@ Abaixo, seguem OBSERVAÇÕES IMPORTANTES:
      1ª -> Na classe NovoPalco, é usada a tipagem ANY para dono_do_show. Isso faz com que essa classe agora, possa receber qualquer tipo de show e possa apresentá-lo no Palco.
 
 
+<<<<<<< HEAD
      2ª -> O método apresentar_show(), obrigatóriamente, precisa ser implementado em cada classe nova para poder funcionar. Caso não seja implementado ou implementado com nome diferente, vai gera ERRO e não funcionara.
+=======
+     2ª -> O método apresentar_show(), obrigatóriamente, precisa ser implementado em cada classe nova para poder funcionar. Caso não seja implementado ou implementado com nome diferente, vai gera ERRO e não vai funcionar.
+>>>>>>> 43fed14c1594ab07fa27d7aa0560e5c104c883b1
      Esse é um conceito presente em classes e métodos abstratos, que devem ser sempre implementados em classes que herdam classes abstratas por padrão.
 
 
